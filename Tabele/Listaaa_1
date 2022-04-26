@@ -1,0 +1,48 @@
+Partlist
+
+Exported from Schemat.sch at 26.01.2022 15:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part         Value          Device              Package      Library      Sheet
+
+3.3V         REG1117        REG1117             SOT223       burr-brown   1
+5.0V         REG1117        REG1117             SOT223       burr-brown   1
+74LVC245     PID-20         DIL20               DIL20        ic-package   1
+C1           100nF          C-EU025-030X050     C025-030X050 rcl          1
+C2           100nF          C-EU025-030X050     C025-030X050 rcl          1
+C3           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C4           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C5           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C6           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C7           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C8           100nF          C-EU025-024X044     C025-024X044 rcl          1
+C10          100nF          C-EU025-024X044     C025-024X044 rcl          1
+C11          100nF          C-EU025-024X044     C025-024X044 rcl          1
+C12          100nF          C-EU025-030X050     C025-030X050 rcl          1
+C13          100nF          C-EU025-030X050     C025-030X050 rcl          1
+C14          100nF          C-EU025-030X050     C025-030X050 rcl          1
+D1           1N4004         1N4004              DO41-10      diode        1
+IC1          ULN2003AD      ULN2003AD           SO16         uln-udn      1
+IC2          ULN2003AD      ULN2003AD           SO16         uln-udn      1
+IC4          MEGA32-P       MEGA32-P            DIL40        atmel        1
+JP1          SM_1           PINHD-1X5           1X05         pinhead      1
+JP2          SM_2           PINHD-1X5           1X05         pinhead      1
+LCD          16x2           PINHD-1X16          1X16         pinhead      1
+PROGRAMATOR                 PINHD-1X4           1X04         pinhead      1
+R1           10k?           R-EU_0204/2V        0204V        rcl          1
+R2           10k?           POTENTIOMETER_PT-10 PT-10        rcl          1
+R3           2k?            R-EU_0204/5         0204/5       rcl          1
+R4           2k?            R-EU_0204/5         0204/5       rcl          1
+R5           2k?            R-EU_0204/5         0204/5       rcl          1
+R6           4.7k?          R-EU_0204/5         0204/5       rcl          1
+R7           4.7k?          R-EU_0204/5         0204/5       rcl          1
+R8           4.7k?          R-EU_0204/5         0204/5       rcl          1
+R9           4.7k?          R-EU_0204/5         0204/5       rcl          1
+SD_CARD      FPS009-30003   FPS009-30003        FPS009-3003  con-yamaichi 1
+SW1          on/off         SW_DIP-1            EDG-01       special      1
+SW2          on/off         SW_DIP-1            EDG-01       special      1
+VL53L0X      ToF            PINHD-1X6           1X06         pinhead      1
+ZASILANIE_DC 12V - 7V       JACK-PLUG0          SPC4077      con-jack     1
